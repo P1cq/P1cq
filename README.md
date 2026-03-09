@@ -1,12 +1,32 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=MOHAMED%20AYMAN&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Node.js+%7C+Express+%7C+SQL+%7C+NoSQL;Building+Scalable+APIs;Future+Tech+Entrepreneur"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=MOHAMED%20AYMAN&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
+
+# 🤖 AI Developer Avatar
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+# 🛰 Tech Orbit
+
+<p align="center">
+
+🟢 MongoDB  
+⬆  
+Node.js ⬅ **MOHAMED AYMAN** ➡ SQL  
+⬇  
+Express.js
+
+</p>
+
+---
+
+# 💻 Developer Boot Console
 
 ```bash
 > boot developer_profile
@@ -16,11 +36,12 @@ initializing system...
 [✔] loading javascript engine
 [✔] starting node runtime
 [✔] initializing express server
-[✔] connecting databases
-[✔] loading api routes
-[✔] security modules enabled
+[✔] connecting sql database
+[✔] connecting nosql database
+[✔] enabling authentication
+[✔] enabling api security
 
-system ready ✔
+system online ✔
 ```
 
 ```
@@ -34,67 +55,75 @@ P1cq
 Backend Developer
 
 > mission
-Building scalable products
-Learning system architecture
-Becoming a tech investor
+Building scalable APIs
+Launching tech products
+Becoming an investor
 ```
 
 ---
 
 # ⚡ Backend Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-0f172a?style=for-the-badge&logo=javascript)
 
-![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![NodeJS](https://img.shields.io/badge/node.js-0f172a?style=for-the-badge&logo=node.js)
 
-![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/express-0f172a?style=for-the-badge&logo=express)
 
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/mongodb-0f172a?style=for-the-badge&logo=mongodb)
 
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)
-
----
-
-# 🧠 Backend Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=P1cq&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1cq&layout=compact&theme=tokyonight)
+![SQL](https://img.shields.io/badge/sql-0f172a?style=for-the-badge&logo=postgresql)
 
 ---
 
-# 📈 Developer Activity Graph
+# 📊 Developer Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P1cq&theme=tokyo-night)
+![Stats](https://github-readme-streak-stats.herokuapp.com?user=P1cq&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P1cq&layout=compact&theme=tokyonight)
 
 ---
 
-# 🧠 Backend Progress
+# 📈 Activity Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=P1cq&theme=tokyo-night)
+
+---
+
+# 🧠 Backend Skill Matrix
 
 ```
-javascript        █████████████
-node.js           █████████████
-express.js        ███████████
-sql               ██████████
-nosql             ██████████
-system design     ████████
-api security      ████████
-```
-
----
-
-# 💻 Developer Console
-
-```bash
-> help
-
-about        → information about me
-projects     → view my repositories
-stack        → technologies I use
-contact      → how to reach me
+Node.js        ███████████████
+Express        █████████████
+SQL            ███████████
+NoSQL          ███████████
+Security       █████████
+System Design  █████████
 ```
 
 ---
+
+# 🎮 Interactive Terminal
+
+<p align="center">
+
+<a href="https://github.com/P1cq?tab=repositories">
+<img src="https://img.shields.io/badge/projects-view-black?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/P1cq">
+<img src="https://img.shields.io/badge/about-me-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/P1cq?tab=stars">
+<img src="https://img.shields.io/badge/favorite-repos-purple?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 👁 Visitors
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=P1cq.P1cq"/>
