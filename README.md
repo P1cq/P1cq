@@ -8,17 +8,22 @@
 
 ---
 
+### 🛰 Tech Stack Orbit
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,javascript,git,github,linux&theme=dark" height="80"/>
 </p>
 
 ---
 
+### 💻 Terminal Boot
+
 ```bash
 > boot developer_system
 
 initializing runtime...
 
+[████████████████████] 100%
 [✔] loading javascript engine
 [✔] starting node environment
 [✔] initializing express framework
@@ -40,6 +45,12 @@ P1cq
 > role
 Backend Developer
 
+> stack
+Node.js
+Express.js
+SQL Databases
+NoSQL Databases
+
 > mission
 Build scalable backend systems
 Launch tech products
@@ -48,4 +59,45 @@ Become a tech investor
 
 ---
 
-<p align="center"> <a href="https://github.com/P1cq?tab=repositories"> <img src="https://img.shields.io/badge/PROJECTS-00F7FF?style=for-the-badge"/> </a> <a href="https://github.com/P1cq"> <img src="https://img.shields.io/badge/ABOUT_ME-8A2BE2?style=for-the-badge"/> </a> <a href="https://github.com/P1cq?tab=stars"> <img src="https://img.shields.io/badge/FAVORITE_REPOS-ff00ff?style=for-the-badge"/> </a> </p> --- <p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=P1cq&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1cq&layout=compact&theme=tokyonight"/> </p> --- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=P1cq&theme=tokyo-night"/> </p> --- <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=P1cq.P1cq"/> </p>
+### 🎮 Interactive Commands
+
+<p align="center">
+
+<a href="https://github.com/P1cq?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-00F7FF?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/P1cq">
+<img src="https://img.shields.io/badge/ABOUT_ME-8A2BE2?style=for-the-badge&logo=about.me"/>
+</a>
+
+<a href="https://github.com/P1cq?tab=stars">
+<img src="https://img.shields.io/badge/FAVORITE_REPOS-ff00ff?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+### 📊 GitHub Stats & Top Languages
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=P1cq&show_icons=true&theme=tokyonight&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1cq&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📈 Contribution Graph Animated
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=P1cq&theme=react-dark&hide_border=false"/>
+</p>
+
+---
+
+### 👁 Visitors
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=P1cq.P1cq"/>
+</p>
