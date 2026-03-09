@@ -1,21 +1,29 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=MOHAMED+AYMAN;Backend+Developer;Node.js+%7C+Express+%7C+SQL+%7C+NoSQL;Building+Products+%26+Future+Investor" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=MOHAMED%20AYMAN&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Node.js+%7C+Express+%7C+SQL+%7C+NoSQL;Building+Scalable+APIs;Future+Tech+Entrepreneur"/>
 </p>
 
 ---
 
 ```bash
-██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║   ██║
-██║  ██║█████╗  ██║   ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝███████╗ ╚████╔╝
-
 > boot developer_profile
 
-loading data...
-████████████████████ 100%
+initializing system...
 
+[✔] loading javascript engine
+[✔] starting node runtime
+[✔] initializing express server
+[✔] connecting databases
+[✔] loading api routes
+[✔] security modules enabled
+
+system ready ✔
+```
+
+```
 > whoami
 Mohamed Ayman
 
@@ -25,59 +33,52 @@ P1cq
 > role
 Backend Developer
 
-> stack
-Node.js
-Express.js
-SQL Databases
-NoSQL Databases
-
 > mission
-Building products & becoming an investor
+Building scalable products
+Learning system architecture
+Becoming a tech investor
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# ⚡ Backend Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 Backend Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=P1cq&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=P1cq&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1cq&layout=compact&theme=tokyonight)
 
 ---
 
-# 📈 Activity Graph
+# 📈 Developer Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P1cq&theme=tokyo-night)
 
 ---
 
-# 🧠 Learning Journey
+# 🧠 Backend Progress
 
-```text
-Backend Roadmap
-
-[✔] JavaScript Fundamentals
-[✔] Node.js Basics
-[✔] Express.js
-[✔] MongoDB (NoSQL)
-[✔] SQL Databases
-[✔] Authentication & Security
-[✔] System Design
-[✔] Scalable APIs
+```
+javascript        █████████████
+node.js           █████████████
+express.js        ███████████
+sql               ██████████
+nosql             ██████████
+system design     ████████
+api security      ████████
 ```
 
 ---
@@ -87,10 +88,10 @@ Backend Roadmap
 ```bash
 > help
 
-about        -> information about me
-projects     -> my repositories
-skills       -> technologies I use
-contact      -> reach me
+about        → information about me
+projects     → view my repositories
+stack        → technologies I use
+contact      → how to reach me
 ```
 
 ---
