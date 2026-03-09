@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=MOHAMED%20AYMAN&fontSize=55&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -16,11 +16,7 @@
 
 <p align="center">
 
-🟢 MongoDB  
-⬆  
-Node.js ⬅ **MOHAMED AYMAN** ➡ SQL  
-⬇  
-Express.js  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,javascript&theme=dark"/>
 
 </p>
 
@@ -89,7 +85,13 @@ Become a tech investor
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=P1cq&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=P1cq&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=P1cq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
