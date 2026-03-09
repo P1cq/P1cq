@@ -91,7 +91,7 @@ Become a tech investor
 ### 📈 Contribution Graph Animated
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=P1cq&theme=react-dark&hide_border=false"/>
+<img src="https://ghchart.rshah.org/P1cq" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -99,5 +99,5 @@ Become a tech investor
 ### 👁 Visitors
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=P1cq.P1cq"/>
+<img src="https://komarev.com/ghpvc/?username=P1cq&color=blue" alt="Profile Views"/>
 </p>
