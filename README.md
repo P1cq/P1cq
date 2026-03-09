@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/l4hLQiaIs2RJBujzW/giphy.gif" width="100%" height="150" style="object-fit: cover; border-radius: 10px;"/>
-</p>>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTD8HqufS69YV/giphy.gif" width="100%" height="200" style="object-fit: cover;"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Node.js+%7C+Express+%7C+SQL+%7C+NoSQL;Building+Scalable+Systems;Future+Tech+Entrepreneur"/>
